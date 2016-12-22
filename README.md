@@ -1,4 +1,4 @@
 #anbuKakashi
 # OpenSource
 
-Cara merubah wajah Linux Ubuntu 14.04 ke MacOs
+Disini saya akan memberikan cara penginstallan step by step yang biasa saya lakukan
